@@ -1,8 +1,10 @@
 import Test from "./test/Test";
+import React_Webcam from "./test/React_Webcam";
 function App() {
   return (
     <div className="App">
-      <Test />
+      <React_Webcam />
+      {/* <Test /> */}
     </div>
   );
 }
